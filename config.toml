@@ -1,0 +1,7 @@
+title = "Hugo Quickstart"
+baseurl = "http://hugo-hugo2.surge.sh/"
+theme = "hugo-theme-learn"
+languageCode = "en-us"
+
+[params]
+menu = ["foreword", "install", "basic", "running", "surge","extras"]

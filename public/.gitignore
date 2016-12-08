@@ -1,0 +1,4 @@
+#filter things here
+*
+#except for this
+!.gitignore
